@@ -49,9 +49,9 @@ let currentNote = {
 
 const staffCollector = {
     x: 225,
-    y: 460,
+    y: 450,
     width: 120,
-    height: 30,
+    height: 50,
     speed: 5,
 };
 
