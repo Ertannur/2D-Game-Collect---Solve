@@ -9,7 +9,9 @@ body {
 }
 
 canvas {
-  background-image: url("./img/backgroundImage.jpeg");
+  background-image: url("./img/bg-image.jpeg");
+  background-size: cover;
+  background-position: center center;
   display: block;
   margin: 0 auto 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
